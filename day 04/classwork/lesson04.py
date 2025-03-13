@@ -1,4 +1,3 @@
-name =  "mari"
-age = 11
-age = age + 1
-
+name = "gurami"
+age = 15
+print(name + " " + str(age))
